@@ -5,7 +5,7 @@ An authentication method that allow self registration and self appliance to a pu
 
 Installs in : 
 -------------
-&lt;moodleroot&gt;/blocks
+&lt;moodleroot&gt;/auth
 
 
 Needs : 
