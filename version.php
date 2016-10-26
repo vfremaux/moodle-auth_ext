@@ -26,11 +26,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2015100800;        // The current plugin version (Date: YYYYMMDDXX)
-$plugin->requires  = 2014050800;        // Requires this Moodle version
-$plugin->component = 'auth_ext';         // Full name of the plugin (used for diagnostics)
+$plugin->version   = 2015100800;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->requires  = 2014110400;        // Requires this Moodle version.
+$plugin->component = 'auth_ext';         // Full name of the plugin (used for diagnostics).
 $plugin->maturity = MATURITY_BETA;
-$plugin->release = '2.7.0 (Build 2015100800)';
+$plugin->release = '2.8.0 (Build 2015100800)';
 
 // Non moodle attributes.
-$plugin->codeincrement = '2.7.0000';
+$plugin->codeincrement = '2.8.0000';
